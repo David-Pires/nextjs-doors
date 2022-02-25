@@ -6,8 +6,8 @@
   padding: 15px;
   
   /*css temporario*/
-  width: 200px;
-  height: 310px;
+  width: var(--area-porta-largura);
+  height: var(--area-porta-altura);  
 }
 .numero {
   
