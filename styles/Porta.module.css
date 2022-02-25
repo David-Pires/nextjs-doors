@@ -1,7 +1,10 @@
 .area {
   display: flex;
+  flex-direction: column;
   height: var(--area-porta-altura);
   width: var(--area-porta-largura);
+  align-items: center;
+  margin: 5px;
 }
 .frame {
   display: flex;
@@ -9,6 +12,7 @@
   border-left:5px solid brown;
   border-top:5px solid brown;
   border-right:5px solid brown;
+  width: 90%;
 
 
 
@@ -22,4 +26,9 @@
   padding: 15px;  
 }
 .numero {
+}
+.chao {
+  height: 10px;
+  width: 100%;
+  background-color: #ddd;
 }
