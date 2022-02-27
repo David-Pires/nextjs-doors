@@ -10,7 +10,7 @@ export default class PortaModel {
     temPresente = false,
     selecionada = false,
     aberta = false,
-    fechada = false
+    fechada = true
   ) {
     this.#numero = numero;
     this.#temPresente = temPresente;
