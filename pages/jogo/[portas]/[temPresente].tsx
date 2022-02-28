@@ -14,11 +14,7 @@ export default function jogo() {
       const portas = +router.query.portas
       const temPresente = +router.query.temPresente
       setPortas(criarPortas(portas, temPresente))
-  }, [router?.query])
-      console.log(router?.query)
-
-  // router.query.portas
-  // router.query.temPresente
+  }, [router?.query])    
 
 
   function renderizarPortas() {
