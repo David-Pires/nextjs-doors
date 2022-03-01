@@ -1,7 +1,18 @@
-![image](https://user-images.githubusercontent.com/78885070/155914460-3d6eb45b-ce5a-4081-98c2-4a28ab4e6290.png)
+
+|  | Monty Hall |  |
+|----------|----------|----------|
+| __________________________________ |  ![image](https://user-images.githubusercontent.com/78885070/156085554-73f96840-608f-46eb-9371-7a026849cbfd.png) |__________________________________ |
 
 
-> Select the door you want, and touch the knobt door to open it. 
+|  | Escolha a porta |  |
+|----------|----------|----------|
+| __________________________________ |  ![image](https://user-images.githubusercontent.com/78885070/155914460-3d6eb45b-ce5a-4081-98c2-4a28ab4e6290.png) |__________________________________ |
+
+
+
+
+
+>                                     Select the door you want, and touch the knobt door to open it. 
 
 
 
