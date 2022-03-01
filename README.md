@@ -12,7 +12,7 @@
 
 
 
->                                     Select the door you want, and touch the knobt door to open it. 
+>                                  Select the door you want, and touch the knobt door to open it. 
 
 
 
