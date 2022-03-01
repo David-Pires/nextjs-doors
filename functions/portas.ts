@@ -1,4 +1,4 @@
-import PortaModel from "../model/porta.ts"
+import PortaModel from "../model/porta"
 
 export function criarPortas(qtde: number, portaComPresente: number): PortaModel[] {
   return Array.from({length: qtde}, (_, i) => {
@@ -8,7 +8,7 @@ export function criarPortas(qtde: number, portaComPresente: number): PortaModel[
   })
 }
 
-export function atualizarPortas(portas: PortaModel[], portaModificada: PortaModel): portaModel[] {
+export function atualizarPortas(portas: PortaModel[], portaModificada: PortaModel): PortaModel[] {
   return portas.map(portaAtual => {
     const igualAModificada = portaAtual.numero === portaModificada.numero
 
